@@ -1,0 +1,36 @@
+# Dependencies
+/node_modules
+/jspm_packages
+
+# Build artifacts
+/build
+/dist
+/out
+.tsbuildinfo
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs and temporary files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.nyc_output
+/coverage
+.eslintcache
+.stylelintcache
+
+# OS-specific and editor files
+.DS_Store
+Thumbs.db
+.idea
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
