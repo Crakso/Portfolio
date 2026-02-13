@@ -72,17 +72,17 @@ export const SkillsInfo = [
 ];
   
   export const education = [
+    // {
+    //   id: 0,
+    //   img: HNBGULogo,
+    //   school: "Havati Nandan Bahugna Garhwal University, Srinagar Garhwal",
+    //   date: "2024 - 2026",
+    //   grade: "pursuing",
+    //   desc: "I am pursuing my Master's degree (M.Tech) in Computer Science and Engineering from HNBGU (Central University) During my time at HNBGU, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Advance Data Structures and Algorithms, Advance Database Management Systems, Web Development, and Object Oriented Software Engineering, which enhanced my skills and knowledge. My experience at HNBGU (Central University) has been instrumental in shaping my technical abilities, research capabilities and professional growth.",
+    //   degree: "Master of Technology - M.Tech",
+    // },
     {
       id: 0,
-      img: HNBGULogo,
-      school: "Havati Nandan Bahugna Garhwal University, Srinagar Garhwal",
-      date: "2024 - 2026",
-      grade: "pursuing",
-      desc: "I am pursuing my Master's degree (M.Tech) in Computer Science and Engineering from HNBGU (Central University) During my time at HNBGU, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Advance Data Structures and Algorithms, Advance Database Management Systems, Web Development, and Object Oriented Software Engineering, which enhanced my skills and knowledge. My experience at HNBGU (Central University) has been instrumental in shaping my technical abilities, research capabilities and professional growth.",
-      degree: "Master of Technology - M.Tech",
-    },
-    {
-      id: 1,
       img: ITGLogo,
       school: "Institute of Technology, Gopeshwar",
       date: "2021 - 2024",
@@ -91,7 +91,7 @@ export const SkillsInfo = [
       degree: "Bachelor of Technology - B.Tech (Computer Science and Engineering)",
     },
     {
-      id: 2,
+      id: 1,
       img: PolyLogo,
       school: "Goverment Polytechnic Ratura, Rudrapryag",
       date: "2018 - 2021",
